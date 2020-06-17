@@ -15,6 +15,4 @@ def pick_peaks(arr):
             flat = 0
         elif arr[i-1] == num < arr[i+1] and flat: # not a platuaus
             flat = 0
-            
-            
     return sol
